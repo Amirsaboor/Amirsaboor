@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Amir Saboor
 
-<!--
-**Amirsaboor/Amirsaboor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React | Next.js | TypeScript
 
-Here are some ideas to get you started:
+I'm a Frontend Developer passionate about building fast, modern and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently building modern web applications with Next.js
+- 🎨 Passionate about UI/UX and clean design
+- 🌱 Always learning new technologies
+- 💬 Ask me about React, Next.js, TypeScript and Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+> Coming Soon...
+
+---
+
+## 📊 GitHub Stats
+
+> Coming Soon...
+
+---
+
+## 🚀 Featured Projects
+
+> Coming Soon...
+
+---
+
+## 📫 Contact
+
+> Coming Soon...
