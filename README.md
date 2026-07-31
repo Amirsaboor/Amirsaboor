@@ -1,119 +1,197 @@
 <div align="center">
 
-# Hi 👋, I'm Amir Saboor
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Amir%20Saboor&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-### Frontend Developer
+<h1>
+👋 Hi, I'm Amir
+</h1>
 
-Building modern, responsive and high-performance web applications with **React**, **Next.js** and **TypeScript**.
-
-<br>
+<h3>
+Frontend Developer • React • Next.js • TypeScript
+</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications" />
+Building scalable, performant and beautiful web experiences.
+</p>
+
+
+<p>
+<a href="https://github.com/Amirsaboor">
+<img src="https://img.shields.io/github/followers/Amirsaboor?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Amirsaboor&style=for-the-badge&color=blue"/>
 </p>
 
 </div>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about building modern web applications.
-- ⚛️ Specialized in **React** & **Next.js**
-- 📘 Writing scalable applications using **TypeScript**
-- 🎨 Love creating clean, responsive and user-friendly UI
-- 🌱 Always learning new technologies and best practices
-- 💡 Interested in performance optimization and modern frontend architecture
+I'm a **Frontend Developer** focused on building modern web applications with a strong focus on performance, accessibility and user experience.
+
+I enjoy turning complex ideas into simple, elegant and scalable interfaces.
+
+Currently working with:
+
+- ⚛️ React ecosystem
+- ▲ Next.js applications
+- 📘 TypeScript development
+- 🎨 Modern UI systems
+- 🚀 Frontend architecture
+
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
 </p>
 
-### Frameworks & Libraries
+
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-### Styling
+
+## UI & Styling
 
 <p>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 </p>
 
-### Tools
+
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
+
+
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">
+Next.js Applications
+</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amirsaboor&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaboor&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+Modern frontend applications built with React, Next.js and TypeScript.
 </p>
 
----
+</td>
 
-## 🔥 GitHub Streak
+
+<td width="50%">
+
+<h3 align="center">
+UI Components
+</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Amirsaboor&theme=github-dark-blue&hide_border=true"/>
+Reusable and scalable component systems.
 </p>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Activity
+
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsaboor&theme=tokyo-night&hide_border=true"/>
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Amirsaboor&theme=transparent&hide_border=true"
+/>
+
 </p>
 
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amirsaboor&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsaboor&theme=github-compact&hide_border=true"
+/>
+
 </p>
+
+
 
 ---
 
-## 📫 Connect With Me
+# 🧩 Development Philosophy
 
-<p align="left">
+
+```javascript
+const Amir = {
+    role: "Frontend Developer",
+    stack: [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS"
+    ],
+    mindset: "Build clean, scalable and user-focused products"
+};
+```
+
+
+---
+
+# 📫 Connect With Me
+
+
+<p>
 
 <a href="mailto:amir.saboor777@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://github.com/Amirsaboor">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://t.me/amir_sv2777">
-<img src="https://skillicons.dev/icons?i=telegram" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
+
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### ⭐ Thanks for visiting my profile
+
+### Let's build something amazing 🚀
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
