@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=58A6FF&animation=twinkling"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=FFFFFF&animation=twinkling"/>
 <h3>
 Frontend Developer • React • Next.js • TypeScript
 </h3>
