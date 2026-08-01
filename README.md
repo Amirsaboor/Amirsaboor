@@ -82,16 +82,7 @@ My primary focus is building modern user interfaces using React, Next.js and Typ
 
 ---
 
-# 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔥 Wedding Venue Platform | Modern venue discovery platform built with Next.js |
-| 👜 Nafis Leather | E-commerce frontend focused on performance and UX |
-| 📊 OKR Dashboard | Goal management dashboard with reusable components |
-| 🌐 Personal Projects | React, TypeScript and UI component libraries |
-
----
 
 # 💡 What I'm Currently Learning
 
