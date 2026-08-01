@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Amirsaboor&style=for-the-badge&color=dc2626"/>
 </p>
 
 </div>
