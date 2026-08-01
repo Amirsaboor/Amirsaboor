@@ -15,13 +15,7 @@ Building scalable, performant and beautiful web experiences.
 </p>
 
 
-<p>
-<a href="https://github.com/Amirsaboor">
-<img src="https://img.shields.io/github/followers/Amirsaboor?style=for-the-badge&logo=github&label=Followers"/>
-</a>
 
-<img src="https://komarev.com/ghpvc/?username=Amirsaboor&style=for-the-badge&color=blue"/>
-</p>
 
 </div>
 
