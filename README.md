@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:1A1A1A,100:FACC15&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=40"/>
+
+
 <h3>
 Frontend Developer • React • Next.js • TypeScript
 </h3>
