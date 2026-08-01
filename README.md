@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=FFFFFF&animation=twinkling"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,60:1D4ED8,100:38BDF8&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=FFFFFF&animation=twinkling"/>
 
 
 <h3>
