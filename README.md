@@ -1,161 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=260&section=header&text=Amir%20Saboor&fontSize=68&fontColor=FFFFFF&animation=twinkling"/>
-<h3>
-Frontend Developer • React • Next.js • TypeScript
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=260&section=header&text=Amir%20Saboor&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
 
-<p>
-Building scalable, performant and beautiful web experiences.
+# Frontend Developer
+
+### Building scalable, performant and modern web applications.
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;TypeScript+Enthusiast;Clean+Code+%7C+Modern+UI+%7C+Performance"/>
 </p>
 
+<p align="center">
+<a href="mailto:amir.saboor777@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://github.com/Amirsaboor">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://t.me/amir_sv2777">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Amirsaboor&style=for-the-badge&color=dc2626"/>
+</p>
 
 </div>
 
-
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Frontend Developer** focused on building modern web applications with a strong focus on performance, accessibility and user experience.
+I'm a Frontend Developer passionate about creating fast, accessible and scalable web applications.
 
-I enjoy turning complex ideas into simple, elegant and scalable interfaces.
+My primary focus is building modern user interfaces using React, Next.js and TypeScript while following clean architecture and best development practices.
 
-Currently working with:
-
-- ⚛️ React ecosystem
-- ▲ Next.js applications
-- 📘 TypeScript development
-- 🎨 Modern UI systems
-- 🚀 Frontend architecture
-
+- Modern Frontend Development
+- Responsive UI Design
+- Component-Based Architecture
+- Performance Optimization
+- Clean & Maintainable Code
+- Continuous Learning
 
 ---
 
 # 🛠 Tech Stack
 
+### Languages
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8"/>
 </p>
 
+### Frontend
 
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&perline=8"/>
 </p>
 
-
-## UI & Styling
-
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+<p align="center">
+<img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logoColor=white"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&perline=8"/>
 </p>
 
+---
 
-## Tools
+# 📈 GitHub Activity
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Amirsaboor&theme=dark&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626"/>
 </p>
 
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsaboor&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="center">
-Next.js Applications
-</h3>
-
-<p align="center">
-Modern frontend applications built with React, Next.js and TypeScript.
-</p>
-
-</td>
-
-
-<td width="50%">
-
-<h3 align="center">
-UI Components
-</h3>
-
-<p align="center">
-Reusable and scalable component systems.
-</p>
-
-</td>
-
-</tr>
-</table>
-
+| Project | Description |
+|---------|-------------|
+| 🔥 Wedding Venue Platform | Modern venue discovery platform built with Next.js |
+| 👜 Nafis Leather | E-commerce frontend focused on performance and UX |
+| 📊 OKR Dashboard | Goal management dashboard with reusable components |
+| 🌐 Personal Projects | React, TypeScript and UI component libraries |
 
 ---
 
-# 📊 GitHub Activity
+# 💡 What I'm Currently Learning
 
-
-<p align="center">
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Amirsaboor&theme=transparent&hide_border=true"
-/>
-
-</p>
-
-
-<p align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsaboor&theme=github-compact&hide_border=true"
-/>
-
-</p>
-
-
+- Advanced React Patterns
+- Next.js App Router
+- Frontend Performance
+- Accessibility (a11y)
+- Modern UI Architecture
 
 ---
 
-# 🧩 Development Philosophy
+# 🤝 Let's Connect
 
-
-```javascript
-const Amir = {
-    role: "Frontend Developer",
-    stack: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Tailwind CSS"
-    ],
-    mindset: "Build clean, scalable and user-focused products"
-};
-```
-
-
----
-
-# 📫 Connect With Me
-
-
-<p>
+<p align="center">
 
 <a href="mailto:amir.saboor777@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -166,11 +117,10 @@ const Amir = {
 </a>
 
 <a href="https://t.me/amir_sv2777">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-DC2626?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </p>
-
 
 ---
 
@@ -178,9 +128,8 @@ const Amir = {
 
 ### ⭐ Thanks for visiting my profile
 
-### Let's build something amazing 🚀
+*"Code is not just about making things work — it's about making them better."*
 
 </div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=120&section=footer"/>
