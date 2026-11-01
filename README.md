@@ -43,17 +43,14 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-insights.svg" alt="GitHub insights" width="760"/>
+
+<br/><br/>
+
 <a href="https://github.com/Amirsaboor">
-  <img src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 </a>
-
-<br/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirsaboor&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirsaboor&theme=github_dark&utcOffset=3"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirsaboor&theme=github_dark"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirsaboor&theme=github_dark"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirsaboor&theme=github_dark&utcOffset=3"/>
 
 <br/><br/>
 
