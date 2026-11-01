@@ -46,20 +46,16 @@ const amir = {
 <div align="center">
 
 <a href="https://github.com/Amirsaboor">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amirsaboor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9&ring_color=DC2626&count_private=true&rank_icon=github"/>
-</a>
-<a href="https://github.com/Amirsaboor">
-  <img height="170" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
+  <img src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/Amirsaboor">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaboor&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&langs_count=6"/>
-</a>
-<a href="https://github.com/Amirsaboor">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirsaboor&theme=github_dark&utcOffset=3"/>
-</a>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amirsaboor&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirsaboor&theme=github_dark&utcOffset=3"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amirsaboor&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amirsaboor&theme=github_dark"/>
 
 <br/><br/>
 
