@@ -33,21 +33,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LANGUAGES-DC2626?style=flat-square"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FRONTEND-991B1B?style=flat-square"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/> <img src="https://img.shields.io/badge/MUI-0D1117?style=for-the-badge&logo=mui&logoColor=007FFF"/> <img src="https://img.shields.io/badge/shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TOOLS-7F1D1D?style=flat-square"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/npm-0D1117?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+<img src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/main/assets/stack.svg" alt="Tech stack" width="760"/>
 
 </div>
 
