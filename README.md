@@ -1,125 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=260&section=header&text=Amir%20Saboor&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:7F1D1D,100:DC2626&height=240&section=header&text=Amir%20Saboor&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descSize=20&descAlignY=62" width="100%"/>
 
-# Frontend Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=700&height=45&lines=React+%26+Next.js+Developer;TypeScript+Enthusiast;Clean+Code+%C2%B7+Modern+UI+%C2%B7+Performance;Building+things+that+scale" alt="typing"/>
 
-### Building scalable, performant and modern web applications.
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+Developer;TypeScript+Enthusiast;Clean+Code+%7C+Modern+UI+%7C+Performance"/>
-</p>
-
-<p align="center">
-<a href="mailto:amir.saboor777@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Amirsaboor">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://t.me/amir_sv2777">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
+<a href="mailto:amir.saboor777@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=DC2626"/></a>
+<a href="https://t.me/amir_sv2777"><img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=DC2626"/></a>
+<a href="https://github.com/Amirsaboor"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=DC2626"/></a>
+<img src="https://img.shields.io/badge/Mashhad%2C%20Iran-0D1117?style=flat-square&logo=googlemaps&logoColor=DC2626"/>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## `~/about`
 
-I'm a Frontend Developer passionate about creating fast, accessible and scalable web applications.
+```ts
+const amir = {
+  role: "Frontend Developer",
+  focus: ["React", "Next.js", "TypeScript"],
+  values: ["Clean architecture", "Accessibility", "Performance"],
+  currentlyLearning: ["Advanced React Patterns", "Next.js App Router", "a11y"],
+  mindset: "Code isn't just about making things work, it's about making them better.",
+};
+```
 
-My primary focus is building modern user interfaces using React, Next.js and TypeScript while following clean architecture and best development practices.
+<br/>
 
-- Modern Frontend Development
-- Responsive UI Design
-- Component-Based Architecture
-- Performance Optimization
-- Clean & Maintainable Code
-- Continuous Learning
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=8"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&perline=8"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logoColor=white"/>
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&perline=8"/>
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Amirsaboor&theme=dark&hide_border=true&ring=DC2626&fire=DC2626&currStreakLabel=DC2626"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirsaboor&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-
-
-# 💡 What I'm Currently Learning
-
-- Advanced React Patterns
-- Next.js App Router
-- Frontend Performance
-- Accessibility (a11y)
-- Modern UI Architecture
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:amir.saboor777@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Amirsaboor">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://t.me/amir_sv2777">
-<img src="https://img.shields.io/badge/Telegram-DC2626?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
-
----
+## `~/stack`
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile
-
-*"Code is not just about making things work — it's about making them better."*
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,git,github,vscode,npm&perline=13&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:991B1B,100:DC2626&height=120&section=footer"/>
+<br/>
+
+## `~/github-insights`
+
+<div align="center">
+
+<a href="https://github.com/Amirsaboor">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amirsaboor&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=C9D1D9&ring_color=DC2626&count_private=true&rank_icon=github"/>
+</a>
+<a href="https://github.com/Amirsaboor">
+  <img height="170" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Amirsaboor">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaboor&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=C9D1D9&langs_count=6"/>
+</a>
+<a href="https://github.com/Amirsaboor">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amirsaboor&theme=github_dark&utcOffset=3"/>
+</a>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+## `~/connect`
+
+<div align="center">
+
+<a href="mailto:amir.saboor777@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/amir_sv2777"><img src="https://img.shields.io/badge/Telegram-991B1B?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7F1D1D,100:DC2626&height=110&section=footer"/>
+
+</div>
