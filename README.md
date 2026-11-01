@@ -17,15 +17,44 @@
 
 ## `~/about`
 
-```ts
-const amir = {
-  role: "Frontend Developer",
-  focus: ["React", "Next.js", "TypeScript"],
-  values: ["Clean architecture", "Accessibility", "Performance"],
-  currentlyLearning: ["Advanced React Patterns", "Next.js App Router", "a11y"],
-  mindset: "Code isn't just about making things work, it's about making them better.",
-};
-```
+<div align="center">
+
+<sub>I build fast, accessible and scalable interfaces with <b>React</b>, <b>Next.js</b> and <b>TypeScript</b>,<br/>
+with a clean architecture and an obsession for details.</sub>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/WHAT%20I%20DO-DC2626?style=flat-square"/>
+<br/><br/>
+Modern Frontend Development<br/>
+Responsive UI Design<br/>
+Component-Based Architecture
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/HOW%20I%20WORK-991B1B?style=flat-square"/>
+<br/><br/>
+Clean &amp; Maintainable Code<br/>
+Performance First<br/>
+Accessibility (a11y)
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://img.shields.io/badge/LEARNING%20NOW-7F1D1D?style=flat-square"/>
+<br/><br/>
+Advanced React Patterns<br/>
+Next.js App Router<br/>
+Modern UI Architecture
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=640&height=30&lines=%22Code+isn't+just+about+making+things+work%2C;it's+about+making+them+better.%22" alt="quote"/>
+
+</div>
 
 <br/>
 
@@ -33,9 +62,27 @@ const amir = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,git,github,vscode,npm&perline=13&theme=dark"/>
+<table>
+<tr>
+<td align="center" valign="top" width="25%">
+<img src="https://img.shields.io/badge/LANGUAGES-DC2626?style=flat-square"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=2&theme=dark"/>
+</td>
+<td align="center" valign="top" width="35%">
+<img src="https://img.shields.io/badge/FRONTEND-991B1B?style=flat-square"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,materialui&perline=3&theme=dark"/>
 <br/>
 <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=flat-square&logo=shadcnui&logoColor=white"/>
+</td>
+<td align="center" valign="top" width="25%">
+<img src="https://img.shields.io/badge/TOOLS-7F1D1D?style=flat-square"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&perline=2&theme=dark"/>
+</td>
+</tr>
+</table>
 
 </div>
 
