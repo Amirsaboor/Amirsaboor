@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:7F1D1D,100:DC2626&height=240&section=header&text=Amir%20Saboor&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descSize=20&descAlignY=62"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:7F1D1D,100:DC2626&height=240&section=header&text=Amir%20Saboor&fontSize=60&fontColor=0D1117&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descSize=20&descAlignY=62"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:7F1D1D,100:DC2626&height=240&section=header&text=Amir%20Saboor&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer&descSize=20&descAlignY=62" alt="Amir Saboor" width="100%"/>
-</picture>
+<img src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/main/assets/header.svg" alt="Amir Saboor, Frontend Developer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=700&height=45&lines=React+%26+Next.js+Developer;TypeScript+Enthusiast;Clean+Code+%C2%B7+Modern+UI+%C2%B7+Performance;Building+things+that+scale" alt="typing"/>
 
