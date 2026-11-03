@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Amir Saboor — Frontend Developer" />
+<table>
+<tr>
+<td width="68%" valign="middle"><img src="./assets/header.svg" width="100%" alt="Amir Saboor — Frontend Developer" /></td>
+<td width="32%" valign="middle" align="center"><img src="./assets/neon_coder_typing_hands%20(1).gif" width="100%" alt="Animated coder typing at a computer" /></td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=D7FF64&center=true&vCenter=true&width=680&height=36&lines=React+%2F+Next.js+%2F+TypeScript;Turning+ideas+into+useful+interfaces;Thoughtful+UI.+Clean+code.+Real+products." alt="Developer focus" />
 
