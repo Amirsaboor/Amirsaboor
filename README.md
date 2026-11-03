@@ -1,9 +1,9 @@
 <div align="center">
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;border:0;border-collapse:collapse;background:transparent;">
 <tr>
-<td width="68%" valign="middle"><img src="./assets/header.svg" width="100%" alt="Amir Saboor — Frontend Developer" /></td>
-<td width="32%" valign="middle" align="center"><img src="./assets/neon_coder_typing_hands%20(1).gif" width="100%" alt="Animated coder typing at a computer" /></td>
+<td width="68%" valign="middle" style="padding:0;border:0;"><img src="./assets/header.svg" width="100%" alt="Amir Saboor — Frontend Developer" /></td>
+<td width="32%" valign="middle" align="center" style="padding:0;border:0;"><img src="./assets/neon_coder_typing_hands%20(1).gif" width="100%" alt="Animated coder typing at a computer" /></td>
 </tr>
 </table>
 
