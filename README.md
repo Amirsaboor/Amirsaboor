@@ -26,9 +26,7 @@
 <img src="./assets/stack.svg" width="100%" alt="Technology stack" />
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,git,github,figma,vscode&theme=dark" alt="Technologies" />
-</p>
+<p align="center"><sub>One visual language across the entire toolkit — no noisy multi-color badges.</sub></p>
 
 ## Selected work
 
@@ -45,12 +43,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amirsaboor&show_icons=true&hide_border=true&bg_color=111A23&title_color=D7FF64&text_color=AAB5C0&icon_color=D7FF64&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaboor&layout=compact&hide_border=true&bg_color=111A23&title_color=D7FF64&text_color=AAB5C0" alt="Most used languages" />
+<img src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-insights.svg" width="100%" alt="GitHub profile insights — repositories, stars, followers and language distribution" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=111A23&ring=D7FF64&fire=D7FF64&currStreakLabel=D7FF64&currStreakNum=F3F5F7&sideNums=F3F5F7&sideLabels=AAB5C0&dates=8293A1" alt="Contribution streak" />
+<br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake-dark.svg" alt="Contribution snake" />
+<img width="82%" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=111A23&ring=D7FF64&fire=D7FF64&currStreakLabel=D7FF64&currStreakNum=F3F5F7&sideNums=F3F5F7&sideLabels=AAB5C0&dates=8293A1" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake-dark.svg" alt="GitHub contribution activity in electric lime" />
 
 </div>
 
