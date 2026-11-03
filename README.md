@@ -1,76 +1,88 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Amir%20Saboor&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%2F%20REACT%20%2F%20NEXT.JS&descSize=13&descAlignY=61&descColor=B4B4BE&color=0:09090B,55:18181B,100:7F1D1D&animation=fadeIn" />
+<img src="./assets/header.svg" alt="Amir Saboor — Frontend Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=D4D4D8&center=true&vCenter=true&width=540&height=28&lines=Crafting+clean+and+thoughtful+interfaces;Building+with+React+%26+Next.js;Focused+on+details%2C+performance+%26+experience" alt="Typing introduction" />
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=FF7058&center=true&vCenter=true&width=700&height=38&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+thoughtful+digital+experiences;Clean+UI+%C2%B7+Performance+%C2%B7+Maintainable+Code" alt="Typing animation" /></a>
 
 <br/>
 
-<a href="mailto:amir.saboor777@gmail.com"><img src="https://img.shields.io/badge/EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=E4E4E7&labelColor=09090B" /></a>
-<a href="https://t.me/amir_sv2777"><img src="https://img.shields.io/badge/TELEGRAM-09090B?style=for-the-badge&logo=telegram&logoColor=E4E4E7&labelColor=09090B" /></a>
-<a href="https://github.com/Amirsaboor"><img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=E4E4E7&labelColor=09090B" /></a>
+<a href="mailto:amir.saboor777@gmail.com"><img src="https://img.shields.io/badge/Email-0C0C0E?style=flat-square&logo=gmail&logoColor=FF7058" alt="Email" /></a>
+<a href="https://t.me/amir_sv2777"><img src="https://img.shields.io/badge/Telegram-0C0C0E?style=flat-square&logo=telegram&logoColor=FF7058" alt="Telegram" /></a>
+<a href="https://github.com/Amirsaboor"><img src="https://img.shields.io/badge/GitHub-0C0C0E?style=flat-square&logo=github&logoColor=FF7058" alt="GitHub" /></a>
 
+</div>
+
+## About
+
+<div align="center">
+<img src="./assets/about.svg" alt="About Amir Saboor" width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,100:27272A&height=1&section=header" width="72%" />
-</div>
+<div align="center"><i>“Good interfaces make complex things feel simple.”</i></div>
 
-## 01 &nbsp; About
-
-```ts
-const amir = {
-  role: "Frontend Developer",
-  focus: ["React", "Next.js", "TypeScript"],
-  mindset: ["Clean Code", "Thoughtful UI", "Performance"],
-  currently: "Learning, building, and improving."
-};
-```
-
-I build modern web interfaces with a focus on **clarity, usability, and detail**.  
-I enjoy turning ideas into responsive digital experiences and writing maintainable code that feels as good behind the scenes as it looks on screen.
-
-<br/>
-
-## 02 &nbsp; Tech Stack
+## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mui,git,github,figma,vscode&theme=dark" />
-
+<img src="./assets/stack.svg" alt="Frontend technology stack" width="100%" />
 </div>
 
 <br/>
 
-## 03 &nbsp; GitHub Overview
+## Selected Work
+
+### Nafis Leather — E-commerce
+A production e-commerce experience built with Next.js, focused on product discovery, shopping flows, and API integration.
+
+**Focus:** Next.js · React · TypeScript · REST API
+
+---
+
+### Mahan IT — Website Redesign
+A modern, bilingual website experience with responsive layouts, reusable UI components, and a consistent visual system.
+
+**Focus:** Next.js · Tailwind CSS · shadcn/ui · Localization
+
+---
+
+### CSeven — Cosmetics E-commerce
+A storefront experience for a cosmetics brand, with product categories and API-driven pages.
+
+**Focus:** Next.js · React · E-commerce UI
+
+---
+
+### Marquiz — WordPress & WooCommerce
+A multilingual commerce website with product content, theme customization, and storefront improvements.
+
+**Focus:** WordPress · WooCommerce · Elementor · Polylang
+
+## GitHub Insights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amirsaboor&show_icons=true&hide_border=true&bg_color=09090B&title_color=F4F4F5&text_color=A1A1AA&icon_color=DC2626&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaboor&layout=compact&hide_border=true&bg_color=09090B&title_color=F4F4F5&text_color=A1A1AA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Amirsaboor&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0C0C0E&title_color=FF7058&icon_color=FF7058&text_color=C9D1D9" alt="GitHub statistics" />
+<img height="165" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=0C0C0E&ring=FF7058&fire=FF7058&currStreakLabel=FF7058&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
-<img width="72%" src="https://streak-stats.demolab.com?user=Amirsaboor&hide_border=true&background=09090B&ring=DC2626&fire=F87171&currStreakLabel=F4F4F5&currStreakNum=F4F4F5&sideNums=A1A1AA&sideLabels=71717A&dates=52525B" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirsaboor&layout=compact&hide_border=true&bg_color=0C0C0E&title_color=FF7058&text_color=C9D1D9" alt="Most used languages" />
 
 </div>
 
-<br/>
-
-## 04 &nbsp; Contributions
+## Contributions
 
 <div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake-dark.svg" alt="Contribution activity animation" />
-
+<img src="https://raw.githubusercontent.com/Amirsaboor/Amirsaboor/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
 </div>
 
-<br/>
+## Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7F1D1D,55:18181B,100:09090B" width="100%" />
+<a href="mailto:amir.saboor777@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF7058?style=for-the-badge&logo=gmail&logoColor=0C0C0E" alt="Email" /></a>
+<a href="https://t.me/amir_sv2777"><img src="https://img.shields.io/badge/TELEGRAM-FF7058?style=for-the-badge&logo=telegram&logoColor=0C0C0E" alt="Telegram" /></a>
+<a href="https://github.com/Amirsaboor"><img src="https://img.shields.io/badge/GITHUB-FF7058?style=for-the-badge&logo=github&logoColor=0C0C0E" alt="GitHub" /></a>
 
-<sub>DESIGN WITH INTENTION · BUILD WITH CLARITY · SHIP WITH CARE</sub>
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
