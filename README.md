@@ -1,8 +1,9 @@
 <div align="center">
 
-<div style="width:100%;">
-<div width="68%" valign="middle" style="padding:0;border:0;"><img src="./assets/header.svg" width="100%" alt="Amir Saboor — Frontend Developer" /></td>
-<div width="32%" valign="middle" align="center" style="padding:0;border:0;"><img src="./assets/neon_coder_typing_hands%20(1).gif" width="100%" alt="Animated coder typing at a computer" /></td>
+<div style="width:100%;display:flex;">
+<div width="32%" valign="middle" align="center" style="padding:0;border:0;"><img src="./assets/neon_coder_typing_hands%20(1).gif" width="100%" alt="Animated coder typing at a computer" /></div>
+
+<div width="68%" valign="middle" style="padding:0;border:0;"><img src="./assets/header.svg" width="100%" alt="Amir Saboor — Frontend Developer" /></div>
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=D7FF64&center=true&vCenter=true&width=680&height=36&lines=React+%2F+Next.js+%2F+TypeScript;Turning+ideas+into+useful+interfaces;Thoughtful+UI.+Clean+code.+Real+products." alt="Developer focus" />
